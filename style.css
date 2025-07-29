@@ -76,14 +76,14 @@ select {
 
 .frameworks-list {
     list-style-image: url(./solar_map-arrow-up-bold.svg);
-    padding-left: 20px;
+    padding: 0px 20px;
     font-weight: 400;
     font-size: 16px;
     /* Стили для маркированного списка во второй секции */
 }
 
 .books-list {
-    padding-left: 20px;
+    padding: 0px 20px;
     font-weight: 400;
     font-size: 16px;
     /* Стили для нумерованного списка во второй секции */
@@ -132,13 +132,13 @@ table {
 }
 
 th, td {
-    padding: 12px 11px;
+    padding: 12px 15px;
     /* Стили для ячеек таблицы */
 }
 
 footer {
     background: rgba(163, 167, 255, 0.3);
-    padding: 26px 0 27px 0;
+    padding: 26px 0px;
     font-weight: 400;
     font-size: 14px;
     color: #2965f1;
